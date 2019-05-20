@@ -18,8 +18,12 @@
   
 
 	<?php require_once 'menu.php'; ?>
-  <img src="iii.png" width="100%" height="900px">
+  <img src="img/iii.png" width="100%" height="800px">
+  
+<body background="black">
 
+	
+</body>
  
 
 
@@ -60,14 +64,14 @@
 
 
 <center> 
-<br><br><br>
-<button type="button" class="btn btn-primary btn-lg">
+<br><br><br><br>
+
 	
 
-  <a href="cadastro.php"><font color="black"> Cadastre-se </font></button></a>
+  <a href="cadastro.php"><font size="9" color="green"> Cadastre-se </font></button></a>
 
 </center>
-<br><br><br>
+<br><br>
 <div class="container">
   <div class="row">
    

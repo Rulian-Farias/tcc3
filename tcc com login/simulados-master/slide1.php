@@ -20,11 +20,11 @@
 
 
 <div class="col-sm">
-   <img src="img/slide2.jpg" width="100%">
+   <img src="img/info.png" width="100%">
 </a>
     </div>
     <div class="col-sm">
-    <img src="img/slide11.jpeg" width="100%">
+    <img src="img/enem.png" width="100%">
    </a>
     </div>
 
