@@ -1,3 +1,12 @@
+body{
+background-color: #004080
+
+
+
+
+;
+}
+
 .f.footer{
 	background-color: #D8D8D8;
 	float: left;
@@ -12,10 +21,4 @@
 	margin-top: 7%;
 }
 
-.imgjj{
-width: 10%;
 
-}
-#m1{
-	margin-top:2%; 
-}
