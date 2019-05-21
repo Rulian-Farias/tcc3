@@ -41,10 +41,10 @@
     <div class="col-sm">
 
    <div class="card" style="width: 18rem;">
-  <img src="img/noticia1.jpg" class="card-img-top" alt="...">
+  <img src="img/noticia1.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Enem 2019: prazo para pagar boleto da inscrição encerra nesta quinta-feira</p>
+    <font color="red"><h5 class="card-title">Notícia</h5></font>
+    <p class="card-text">Enem 2019: prazo para pagar boleto da inscrição encerra nesta quinta-feira.</p>
     <a href="https://g1.globo.com/educacao/enem/2019/noticia/2019/05/20/enem-2019-prazo-para-pagar-a-inscricao-encerra-na-quinta-feira.ghtml" class="btn btn-primary">Ver notícia</a>
   </div>
 </div>
@@ -54,10 +54,10 @@
     <div class="col-sm">
 
       <div class="card" style="width: 18rem;">
-  <img src="img/noticia1.jpg" class="card-img-top" alt="...">
+  <img src="img/noticia1.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Ser treineiro do Enem é vantajoso</p>
+  <font color="green">  <h5 class="card-title">Notícia</h5> </font>
+    <p class="card-text">Ser treineiro do Enem é vantajoso.</p>
     <a href="http://correio.rac.com.br/_conteudo/2019/05/campinas_e_rmc/670474-ser-treineiro-do-enem-e-vantajoso.html" class="btn btn-primary">Ver notícia</a>
   </div>
 </div>
@@ -65,12 +65,12 @@
     </div>
     <div class="col-sm">
 
- <div class="card" style="width: 18rem;">
-  <img src="img/noticia1.jpg " class="card-img-top" alt="...">
+ <div class="card" style="width: 18rem;  ">
+  <img src="img/noticia1.png " width="50%" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <font color="red"><h5 class="card-title">Notícia</h5></font>
+    <p class="card-text">Enem: 5 dicas para ter uma redação nota 1000.</p>
+    <a href="https://www.metrojornal.com.br/estilo-vida/2019/05/16/enem-dicas-redacao-nota-1000.html" class="btn btn-primary">Ver notícia</a>
   </div>
 </div>
 
@@ -87,14 +87,7 @@
 <center> 
 <br><br><br><br>
 
-<div class="card" style="width: 18rem;">
-  <img src="img/enem.png" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
+
 	
 
   <a href="cadastro.php"><font size="9" color="#ff9900"> Cadastre-se </font></button></a>

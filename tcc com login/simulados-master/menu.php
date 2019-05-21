@@ -13,23 +13,27 @@
 </head>
 <body>
 
+
 	<ul class="nav nav-tabs">
-    <img src="Design sem nome (3).png" width="3%" height="50px"> <li class="nav-item">
-    <a class="nav-link active" href="index.php"><font color="#0B615E"> Home</font></a>
+    <img src="" width="3%" height="50px">
+
+     <li class="nav-item">
+    <a class="nav-link " href="index.php">
+      <font size="4" color="orange"> Home</font></a>
   </li>
 
  
-    </div>
-  </li>
+ 
+ 
 
-
-    </div>
-  </li> 
+ 
+ 
   <li class="nav-item">
-    <a class="nav-link" href="login-php_compluido\login-php\login-php\index1.php"><font color="0B615E"> Login </font></a>
+    <a class="nav-link" href="login-php_compluido\login-php\login-php\index1.php">
+      <font size="4" color="black"> Login </font></a>
   </li>
  <li class="nav-item">
-    <a class="nav-link" href="cadastro.php"><font color="0B615E"> Cadastrar-se </font></a>
+    <a class="nav-link" href="cadastro.php"><font size="4" color="black"> Cadastrar-se </font></a>
   </li>
 </ul> 
 
