@@ -21,7 +21,7 @@
 		<h5>©2018. TODOS OS DIREITOS RESERVADOS.
 		</h5>
 		<br>
-		<p><font color="#0489B1"> E-mail: xxx@estudando.com</font></p>
+		<p> <font color="#0489B1"> E-mail: xxx@estudando.com</font></p>
 		<br>
 		 
 	</center>

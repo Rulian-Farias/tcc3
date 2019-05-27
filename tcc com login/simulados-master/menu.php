@@ -14,12 +14,12 @@
 <body>
 
 
-	<ul class="nav nav-tabs">
-    <img src="" width="3%" height="50px">
+	<ul class="nav">
+    <img src="img/logo.png" width="10%" height="55px">
 
      <li class="nav-item">
     <a class="nav-link " href="index.php">
-      <font size="4" color="orange"> Home</font></a>
+      <font size="4" color="#DF7401">Home</font></a>
   </li>
 
  
@@ -30,10 +30,10 @@
  
   <li class="nav-item">
     <a class="nav-link" href="login-php_compluido\login-php\login-php\index1.php">
-      <font size="4" color="black"> Login </font></a>
+      <font size="4" color="white"> Login </font></a>
   </li>
  <li class="nav-item">
-    <a class="nav-link" href="cadastro.php"><font size="4" color="black"> Cadastrar-se </font></a>
+    <a class="nav-link" href="cadastro.php"><font size="4" color="white"> Cadastrar-se </font></a>
   </li>
 </ul> 
 
